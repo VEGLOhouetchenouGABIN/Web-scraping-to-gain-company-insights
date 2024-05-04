@@ -9,6 +9,8 @@ This project aims to analyze customer reviews of British Airways from the websit
 
 ![](samples3.png)
 
+![](code.png)
+
 ### **Setup**
 Ensure you have Python installed along with the necessary libraries like `requests`, `BeautifulSoup`, `pandas`, `nltk`, `matplotlib`, `wordcloud`, and `vaderSentiment`.
 
