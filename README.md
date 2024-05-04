@@ -36,7 +36,7 @@ Ensure you have Python installed along with the necessary libraries like `reques
 - Customize the visualization parameters to suit your preferences.
 
 ### **Contributors**
-- [Your Name]
+- Gabin H. VEGLO
 
 ### **License**
 #**This project is licensed under the MIT License.**#
